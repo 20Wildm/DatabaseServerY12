@@ -17,6 +17,7 @@ INSERT INTO Person
         ('Matthew', 'Musk', 'muskm', 'apple1', 1),
         ('John','Table','TableJ','ilovetables',3),
         ('Matthew','Thomas','Thomam','MATHHEWTHEWMAT',1),
+        ('Phillip','Bench','BenchP','Pbench',2),
         ('The', 'Bank', 'banker', 'secret', 4);
 
 CREATE TABLE Payment (
