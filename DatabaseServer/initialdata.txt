@@ -35,7 +35,10 @@ CREATE TABLE Payment (
 INSERT INTO Payment(GiverID, RecipientID, Amount, TIMESTAMP, Description)
 	VALUES 
 	(1, 5, 100, DATE(), 'Lunch'),
-	(4, 2, 20, DATE(), 'Snack');
+	(4, 2, 20, DATE(), 'Snack'),
+    (9,10,200,DATE(),'date night'),
+    (11,6,50,DATE(),'glass blowing class');
+
 
 
 CREATE TABLE Job (
